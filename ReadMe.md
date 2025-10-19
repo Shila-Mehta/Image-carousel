@@ -17,6 +17,9 @@ This project allows users to navigate through a collection of images with smooth
 
 ✨ Smooth Animations — CSS transitions for fade or slide effects
 
+
+## Live Demo(https://shila-mehta.github.io/Image-carousel/)
+
 ## 🖼️ Preview
 
 # Default View
@@ -52,3 +55,4 @@ Nimra Abdul Jabbar
 GitHub:(https://github.com/)
 
 Portfolio:(https://nimra-react-portfolio.netlify.app/)
+
